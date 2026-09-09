@@ -1,7 +1,11 @@
 # Hi there, I'm Chisom Jennifer Afoaku 👋
+</b>
+
 <a href="https://www.linkedin.com/in/chisom-afoaku-01b30a233">
   <img src="https://img.shields.io/badge/LinkedIn-Chisom%20Afoaku-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> </b>
+</a> 
+</b>
+
 🎓 Cybersecurity Student at Miva Open University  
 🔐 Aspiring Cybersecurity Professional  
 🌱 Currently learning and building my skills in Cybersecurity  
