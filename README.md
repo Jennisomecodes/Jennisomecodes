@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 </b>
+<a href="mailto:chisomj063@gmail.com">
+  <img src="https://img.shields.io/badge/Email-chisomj063%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> </b> 
+
 
 🎓 Cybersecurity Student at Miva Open University  
 🔐 Aspiring Cybersecurity Professional  
