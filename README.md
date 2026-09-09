@@ -2,7 +2,7 @@
 </b>
 
 <a href="https://www.linkedin.com/in/chisom-afoaku-01b30a233">
-  <img src="https://img.shields.io/badge/LinkedIn-Chisom%20Afoaku-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 </b>
 
