@@ -33,8 +33,4 @@
 - Gain hands-on experience in cybersecurity
 - Connect and collaborate with other tech professionals
 
-## 📫 Let's Connect
-- LinkedIn: *Add your LinkedIn link here*
-- Email: *Add your professional email here*
-
 ✨ *Learning, growing, and securing the digital world—one step at a time.*
