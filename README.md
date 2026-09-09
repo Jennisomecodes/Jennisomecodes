@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Chisom Jennifer Afoaku 👋
+<a href="https://www.linkedin.com/in/chisom-afoaku-01b30a233">
+  <img src="https://img.shields.io/badge/LinkedIn-Chisom%20Afoaku-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> </b>
+🎓 Cybersecurity Student at Miva Open University  
+🔐 Aspiring Cybersecurity Professional  
+🌱 Currently learning and building my skills in Cybersecurity  
+💻 Interested in Ethical Hacking, Network Security, and Cyber Defense  
+🚀 Open to learning, collaboration, and new opportunities  
 
-<!--
-**Jennisomecodes/Jennisomecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Currently Learning
+- Cybersecurity Fundamentals
+- Networking
+- Linux
+- Kali Linux
+- Ethical Hacking
+- Cyber Defense
 
-Here are some ideas to get you started:
+## 🎯 My Goals
+- Build practical cybersecurity projects
+- Improve my technical and problem-solving skills
+- Gain hands-on experience in cybersecurity
+- Connect and collaborate with other tech professionals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- LinkedIn: *Add your LinkedIn link here*
+- Email: *Add your professional email here*
+
+✨ *Learning, growing, and securing the digital world—one step at a time.*
